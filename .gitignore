@@ -1,9 +1,5 @@
-*VC.db
-
-Intermediate/
-Content/StarterContent/
-
-# Visual Studio 2015 user specific files
+*.VC.db
+BattleTank.VC.VC.opendb
 .vs/
 
 # Compiled Object files
@@ -42,7 +38,6 @@ Content/StarterContent/
 *.suo
 *.opensdf
 *.sdf
-*.VC.opendb
 
 # Precompiled Assets
 SourceArt/**/*.png
