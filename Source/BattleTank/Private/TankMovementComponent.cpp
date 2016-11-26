@@ -1,4 +1,4 @@
-// Copyright EmbraceIT Ltd.
+// Copyright Ephireon Systems Ltd.
 
 #include "BattleTank.h"
 #include "TankTrack.h"
